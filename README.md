@@ -1,2 +1,2 @@
-# 1x1-melhorando-qas
-Porque 1x1 são tão importantes para área de QA?
+# Formando melhores QAs através de 1x1 (one on one).
+
