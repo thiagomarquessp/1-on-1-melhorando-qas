@@ -18,4 +18,4 @@ Primeiro quando for abordá-lo, chame-o pelo nome, elogie-o primeiro por mais qu
 
 Depois devemos ter o **hábito** de realizar 1 on 1. Então faça o primeiro, explique o que é um 1 on 1, conheça o seu liderado no primeiro (que basicamente é pra isso o primeiro) e a partir daí agendem juntos, vendo os melhores horários para ambos e marquem nas agendas, assim como definir a periodicidade, se será 1 por semana, ou a cada X dias, mas que isso se torne um **acordo** entre ambas as partes e caso haja a necessidade de remarcar, vá até seu liderado e veja o melhor dia e horário e marque na hora na agenda esse novo dia, para não perder o hábito.
 
-Vou deixar um modelo que podemos seguir ou não de [roteiro para nossas 1 on 1.](WIP)
+Vou deixar um modelo que podemos seguir ou não de [roteiro para nossas 1 on 1.](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/roteiro-base.md)
