@@ -24,4 +24,7 @@ Dividi o material em:
 
 1. [Conheça seu liderado;](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/conheca-seu-liderado.md)
 2. [Roteiro base;](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/roteiro-base.md)
-3. [Abordagens;](WIP)
+3. [Liderados JR;](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/1-1-analistas-jr.md)
+4. [Liderados PL;](WIP)
+5. [Liderados SR;](WIP)
+6. [Liderados Especialista;](WIP)
