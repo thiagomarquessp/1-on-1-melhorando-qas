@@ -34,7 +34,7 @@ O roteiro para os 1 on 1 podem ser seguidos dessa forma:
 **3.** Peça para ele falar sobre coisas que vem acontecendo com ele (na vida pessoal e profissional);
 **4.** Peça para falar sobre o trabalho e se tem algum impedimento que você como líder pode ajudar;
 **5.** Peça para te dar um feedback sobre sua liderança e onde tu pode melhorar como líder. Apenas aceite a crítica e não contra argumente, se tem algo que ele enxergou como ponto negativo, é porque você deixou transparecer isso Ok, em outras palavras, toma o gol e fica quieto e melhore;
-**6.** Esse é o momento do mentoring e coaching:
+**6.** Esse é o momento do mentoring e coaching:  
 a. Analise o que ele disse e o oriente da melhor forma, principalmente baseado nos desejos de carreira dele, oriente a ler algo que faça sentido para ele ser um automatizador melhor, ou um funcional melhor, sempre coloque os desejos dele a frente;  
 b. Aponte uma falha de forma que não o faça sentir vergonha ou frustração e ajude seu liderado dando exemplos de como aquela ação poderia ter sido contornada ou melhor trabalhada.  
 **7.** Pergunte como a empresa ou o produto que trabalha pode melhorar;  
