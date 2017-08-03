@@ -23,5 +23,5 @@ Estou aplicando 1 on 1 em QAs que estão iniciando e venho observando a melhora 
 Dividi o material em:
 
 1. [Conheça seu liderado;](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/conheca-seu-liderado.md)
-2. [Roteiro base;](WIP)
+2. [Roteiro base;](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/roteiro-base.md)
 3. [Abordagens;](WIP)
