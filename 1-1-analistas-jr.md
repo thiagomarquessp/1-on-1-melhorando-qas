@@ -27,8 +27,7 @@ Ligado ao hábito da leitura e também ao hábito da escrita, o hábito de estud
 
 O roteiro para os 1 on 1 podem ser seguidos dessa forma:
 
-1. Quebra gelo (fale de algo pessoal de que seu liderado goste);
-
+1. Quebra gelo (fale de algo pessoal de que seu liderado goste);  
 *Obs.: O quebra gelo é o principal fator, por isso é importante conhecer bem seu liderado.*
 
 2. Elogie por algo que ele tenha feito no período entre uma 1 on 1 e outra (e seja sincero);
@@ -36,13 +35,13 @@ O roteiro para os 1 on 1 podem ser seguidos dessa forma:
 4. Peça para falar sobre o trabalho e se tem algum impedimento que você como líder pode ajudar;
 5. Peça para te dar um feedback sobre sua liderança e onde tu pode melhorar como líder. Apenas aceite a crítica e não contra argumente, se tem algo que ele enxergou como ponto negativo, é porque você deixou transparecer isso Ok, em outras palavras, toma o gol e fica quieto e melhore;
 6. Esse é o momento do mentoring e coaching:
-a. Analise o que ele disse e o oriente da melhor forma, principalmente baseado nos desejos de carreira dele, oriente a ler algo que faça sentido para ele ser um automatizador melhor, ou um funcional melhor, sempre coloque os desejos dele a frente;
-b. Aponte uma falha de forma que não o faça sentir vergonha ou frustração e ajude seu liderado dando exemplos de como aquela ação poderia ter sido contornada ou melhor trabalhada.
-7. Pergunte como a empresa ou o produto que trabalha pode melhorar;
-8. Para finalizar eu estou usando o seguinte ritual:
-a. Repasso os pontos anotados;
-b. Para os pontos negativos converse com o liderado como resolvê-los entre o dia da 1 on 1 até a próxima;
-c. Proponha um novo desafio (baseado naquilo que você acredita ser o melhor para ele, no meu caso, proponho sempre baseado nos hábitos do estudo, leitura e escrita);
+a. Analise o que ele disse e o oriente da melhor forma, principalmente baseado nos desejos de carreira dele, oriente a ler algo que faça sentido para ele ser um automatizador melhor, ou um funcional melhor, sempre coloque os desejos dele a frente;  
+b. Aponte uma falha de forma que não o faça sentir vergonha ou frustração e ajude seu liderado dando exemplos de como aquela ação poderia ter sido contornada ou melhor trabalhada.  
+7. Pergunte como a empresa ou o produto que trabalha pode melhorar;  
+8. Para finalizar eu estou usando o seguinte ritual:  
+a. Repasso os pontos anotados;  
+b. Para os pontos negativos converse com o liderado como resolvê-los entre o dia da 1 on 1 até a próxima;  
+c. Proponha um novo desafio (baseado naquilo que você acredita ser o melhor para ele, no meu caso, proponho sempre baseado nos hábitos do estudo, leitura e escrita);  
 8. Marque o próximo 1 on 1 e incentive-o a vir com a pauta na próxima reunião.
 9. 5 minutos são suficientes para tu enviar um novo invite e mandar um resumo do 1 on 1 com as ações para o próximo.
 
