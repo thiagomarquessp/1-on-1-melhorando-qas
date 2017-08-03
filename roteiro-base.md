@@ -21,9 +21,10 @@ Dado isso, para nossa primeira 1 on 1:
 
 **d.** Coloque no primeiro 1 on 1 os valores que você como líder mais considera, no meu caso, deixei claro:
 
-**Ética**
-**Honestidade**
-**Curiosidade**
+**Ética**;
+**Honestidade**;
+**Curiosidade**.
+
 *Obs.: Sobre os valores, ideal que seja feito com muito tato e evitar falar sobre isso muito tempo após o liderado começar na empresa, por exemplo, depois de 3 meses ter o primeiro 1 on 1 e falar sobre honestidade com ele pode dar uma interpretação de dúvida sobre se tu como líder esteja duvidando desse valor ou não. Quanto antes melhor para que todas as partes estejam alinhadas.*
 
 **e.** Questione o liderado sobre a percepção dele com relação a carreira, onde ele quer chegar e nesse momento tu já pode dar seu primeiro conselho e pergunte para ele como ele gostaria de ser ajudado por ti, pelo time e pela empresa, que ele possa ser bem sincero para que tu possa extrair o máximo dele para então orientá-lo da melhor forma.
