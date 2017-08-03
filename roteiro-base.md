@@ -60,3 +60,5 @@ Pensando na carreira em Y, chega um momento quando você é SR e não sabe pra o
 1 on 1 pode ser pensado a partir de como tu enxerga, então faz sentido refletir sobre sua percepção de carreira para poder orientar da melhor maneira seu liderado.
 
 Vamos seguindo para [1 on 1 aplicado para liderados Jr.](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/1-1-analistas-jr.md)
+
+[Home](https://github.com/thiagomarquessp/1-on-1-melhorando-qas)
