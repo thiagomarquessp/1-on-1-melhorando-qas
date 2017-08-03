@@ -57,6 +57,6 @@ Esse meu roteiro dura em média 25 minutos (20 minutos de 1 on 1 e 5 para enviar
 
 Lidar com um analista jr é muito bom porque é um talento que você tem a oportunidade de ser a principal referência e isso é muito gratificante quando você vê seu trabalho dando resultado.
 
-Então vamos ver como realizamos um [1 on 1 para analistas PL.](WIP)
+Então vamos ver como realizamos um [1 on 1 para analistas PL.](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/1-1-analista-pleno.md)
 
 [Home](https://github.com/thiagomarquessp/1-on-1-melhorando-qas)
