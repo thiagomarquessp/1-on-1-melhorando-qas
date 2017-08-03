@@ -14,6 +14,7 @@ Dado isso, para nossa primeira 1 on 1:
 **a.** Disclaimer sobre a motivação sobre ter uma 1 on 1;
 
 **b.** Pedir para o liderado falar um pouco sobre ele mesmo, não precisa focar em parte profissional, porque essa parte já foi porque até então, ele trabalha contigo certo?;
+
 *Obs.: Anote toda a informação relevante, como aniversário, hobbies, se o seu liderado é uma pessoa introvertida ou não, nome dos pais, do namorado(a)*
 
 **c.** Da mesma maneira, fale sobre você da mesma forma e criar um elo de confiança;
