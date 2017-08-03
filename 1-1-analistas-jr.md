@@ -28,7 +28,9 @@ Ligado ao hábito da leitura e também ao hábito da escrita, o hábito de estud
 O roteiro para os 1 on 1 podem ser seguidos dessa forma:
 
 1. Quebra gelo (fale de algo pessoal de que seu liderado goste);
+
 *Obs.: O quebra gelo é o principal fator, por isso é importante conhecer bem seu liderado.*
+
 2. Elogie por algo que ele tenha feito no período entre uma 1 on 1 e outra (e seja sincero);
 3. Peça para ele falar sobre coisas que vem acontecendo com ele (na vida pessoal e profissional);
 4. Peça para falar sobre o trabalho e se tem algum impedimento que você como líder pode ajudar;
