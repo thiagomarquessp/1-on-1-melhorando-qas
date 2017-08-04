@@ -15,7 +15,7 @@ Entender qual caminho o QA Jr poderá seguir para alcançar os objetivos de carr
 
 Ler é uma arte que deve ser falada todos os dias para todas as pessoas e no nosso caso, quando a referência profissional de um analista JR é seu líder, devemos incentivar e colocar a prova a leitura, fazendo com que isso se torne parte vital do dia a dia do liderado. Coloque as vantagens de se ter o hábito da leitura, como por exemplo, um melhor vocabulário, e não o incentive apenas a ler livros técnicos, pense que a leitura deve ser um prazer, e forçar apenas para a esfera técnica pode ser um tiro no pé. Quando conhecemos nossos liderados, conseguimos absorver algumas informações relevantes, por exemplo, "gostar de Game of Thrones" e estudar sobre obras semelhantes e plantar a semente do bem para que ele possa ir atrás desse livro e ler também, leia também para conseguir conversar sobre o tema.
 
-Uma coisa que nós, como líderes devemos fazer é identificar se as pessoas que lideramos possuem condições de comprar livros, que por muitas vezes são caros, então temos a missão de incentivar a leitura, mas promover um ambiente para que isso possa ser uma realidade a favor da empresa, ou seja, comprar livros e criar uma biblioteca na empresa, faça o possível para promover um ambiente de estudos, nem que tenha que tirar recursos próprios. Mas sente com cada um e veja a necessidade de se custear um 50% a 50% e vale a pena. Empresas que estimulam o estudo são mais felizes. **MAS NUNCA INCENTIVE A PIRATATIA**
+Uma coisa que nós, como líderes devemos fazer é identificar se as pessoas que lideramos possuem condições de comprar livros, que por muitas vezes são caros, então temos a missão de incentivar a leitura, mas promover um ambiente para que isso possa ser uma realidade a favor da empresa, ou seja, comprar livros e criar uma biblioteca na empresa, faça o possível para promover um ambiente de estudos, nem que tenha que tirar recursos próprios. Mas sente com cada um e veja a necessidade de se custear um 50% a 50% e vale a pena. Empresas que estimulam o estudo são mais felizes. **MAS NUNCA INCENTIVE A PIRATARIA**
 
 ## Hábito da escrita
 
@@ -40,7 +40,7 @@ O roteiro para os 1 on 1 podem ser seguidos dessa forma:
 
 **6.** Esse é o momento do mentoring e coaching:    
 a. Analise o que ele disse e o oriente da melhor forma, principalmente baseado nos desejos de carreira dele, oriente a ler algo que faça sentido para ele ser um automatizador melhor, ou um funcional melhor, sempre coloque os desejos dele a frente;  
-b. Aponte uma falha de forma que não o faça sentir vergonha ou frustração e ajude seu liderado dando exemplos de como aquela ação poderia ter sido contornada ou melhor trabalhada. 
+b. Aponte uma falha de forma que não o faça sentir vergonha ou frustração e ajude seu liderado dando exemplos de como aquela ação poderia ter sido contornada ou melhor trabalhada.
 
 **7.** Pergunte como a empresa ou o produto que trabalha pode melhorar;  
 
