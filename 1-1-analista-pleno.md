@@ -5,6 +5,7 @@ Liderar analistas de perfil PL é uma tarefa muito boa porque tu passa a aprende
 1. Conheço meu liderado melhor em cada 1 on 1;
 2. Desafio o meu liderado a promover Tech Talks ou Coding Dojo na empresa;
 3. Incentivo a participação em palestras e conferências;
+4. Incentivo a tomadas de decisão.
 
 ## Conhecer
 
@@ -18,6 +19,10 @@ Uma vez que você ensina você aprende muito mais sobre o tema. Eu fui professor
 ## Incentivo a participar de comunidades
 
 Da mesma forma que o desafio é lançado para tech talks, poderia ser lançado para seu liderado participar de comunidades e compartilhar conhecimento, através de artigos (que já vem sendo hábito desde JR se for o mesmo liderado), ou incentivando a submeter palestras em algum evento. Para estimular a escrita de artigos, promova um blog na empresa para troca de conhecimentos.
+
+## Tomadas de decisão
+
+Esse é um momento que faz parte do coaching e mentoring, onde devemos incentivar nosso liderado PL a ter mais autonomia para tomadas de decisão, e prepará-lo para quando ocorrer uma situação de dificuldade, que ele possa tomar uma decisão, nem que essa decisão seja conversar com as pessoas mais sábias buscando conselhos.
 
 O roteiro para os 1 on 1 podem ser seguidos dessa forma:
 
@@ -35,13 +40,13 @@ O roteiro para os 1 on 1 podem ser seguidos dessa forma:
 **6.** Esse é o momento do mentoring e coaching:   
 a. Baseado no que seu liderado falou sobre os últimos dias, incentive-o a escrever sobre isso e publicar em algum blog e deixe isso como desafio a ser apresentado na próxima 1 on 1.  
 b. Caso ele tenha dificuldades com o tema, relembre de algo que ele fez que foi muito legal e o incentive a escrever sobre aquilo.  
+c. Incentive a ter tomadas de decisão, que ele possa ser o "guardião dos mais novos", que ele possa remover impedimentos deles, etc.
 
 **7.** Pergunte como a empresa ou o produto que trabalha pode melhorar;  
 
 **8.** Para finalizar eu estou usando o seguinte ritual:  
 a. Repasso os pontos anotados;  
 b. Para os pontos negativos converse com o liderado como resolvê-los entre o dia da 1 on 1 até a próxima;  
-c. Proponha um novo desafio (baseado naquilo que você acredita ser o melhor para ele, no meu caso, proponho sempre baseado nos hábitos do estudo, leitura e escrita);  
 
 **9.** Marque o próximo 1 on 1 e incentive-o a vir com a pauta na próxima reunião.
 

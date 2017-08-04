@@ -53,12 +53,6 @@ SR na minha opinião é o momento temos a capacidade de tomar decisões perante 
 
 Já vi muito SR esperando gestor chegar para chorar os problemas com medo de resolver os problemas, pra mim isso não é ser SR.
 
-## Especialista
-
-Pensando na carreira em Y, chega um momento quando você é SR e não sabe pra onde ir, e nessa hora vem a decisão de ir para o lado da Gestão ou para o Lado Especialista, ambos crescem de forma igual, ganham praticamente o mesmo e o que difere é que um lado vai se especializar em liderança e o outro lado vai pensar em ser o melhor especilista no assunto.
-
-1 on 1 pode ser pensado a partir de como tu enxerga, então faz sentido refletir sobre sua percepção de carreira para poder orientar da melhor maneira seu liderado.
-
 Vamos seguindo para [1 on 1 aplicado para liderados Jr.](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/1-1-analistas-jr.md)
 
 [Home](https://github.com/thiagomarquessp/1-on-1-melhorando-qas)
