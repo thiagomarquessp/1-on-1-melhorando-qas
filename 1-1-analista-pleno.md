@@ -51,4 +51,6 @@ Esse meu roteiro dura em média 25 minutos (20 minutos de 1 on 1 e 5 para enviar
 
 Geralmente para liderados PL eu ainda mantenho 1 on 1 a cada 15 dias, assim como JRs.
 
-Se chegamos até aqui, podemos ver como lidar com [liderados SR.](WIP)
+Se chegamos até aqui, podemos ver como lidar com [liderados SR.](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/1-1-analistas-sr.md)
+
+[Home](https://github.com/thiagomarquessp/1-on-1-melhorando-qas)
