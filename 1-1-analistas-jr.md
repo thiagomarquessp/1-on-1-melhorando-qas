@@ -1,6 +1,6 @@
 # Aplicando 1 on 1 em analistas Jr
 
-Abordar um perfil Jr e no nosso caso, um perfil Jr de QA é uma tarefa muito legal, porque o QA Jr vem com muitas idéias e muitos totalmente aberto ao aprendizado e certamente deve ser muito bem direcionado, ou seja, um JR cheio de vida ser ensinado desde o começo da forma errada é perder um grande talento e quando bem direcionado, acaba se tornando um excelente profissional. O que eu tenho feito a respeito de 1 on 1 com Analista JR:
+Abordar um perfil Jr e no nosso caso, um perfil Jr de QA é uma tarefa muito legal, porque o QA Jr vem com muitas idéias e totalmente aberto ao aprendizado e certamente deve ser muito bem direcionado, ou seja, um JR cheio de vida ser ensinado desde o começo da forma errada é perder um grande talento e quando bem direcionado, acaba se tornando um excelente profissional. O que eu tenho feito a respeito de 1 on 1 com Analista JR:
 
 1. Conheço meu liderado melhor em cada 1 on 1;
 2. Estimulo o hábito da leitura;
