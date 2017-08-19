@@ -16,7 +16,7 @@ Esses fatores na minha opinião são fundamentais para que um time possa ser ele
 
 Falando em feedback, eu vejo que em muitas empresas ainda é tratado como tabu pra não falar preguiça por muitos gestores, diferente daqueles que mantém o hábito, de mesmo 1 x por ano falar para seus liderados como eles estão trabalhando ou se portando e como podem melhorar. Liderados que tenham feedbacks frequentes são mais empenhados, mais dedicados a estudar novas coisas, porque frequentemente são desafiados por seus líderes.
 
-Em minhas últimas experiências tive a oportunidade de meus liderados aplicarem a chamada reunião de 1 on 1 (One on One), que nada mais é que uma reunião periódica entre líder e liderado e esse artigo vai falar sobre como aplicar uma reunião de one on one em times de QA, mas pode ser aplicado em qualquer equipe.
+Em minhas últimas experiências tive a oportunidade de meus líderes aplicarem a chamada reunião de 1 on 1 (One on One), que nada mais é que uma reunião periódica entre líder e liderado e esse artigo vai falar sobre como aplicar uma reunião de one on one em times de QA, mas pode ser aplicado em qualquer equipe.
 
 Estou aplicando 1 on 1 em QAs que estão iniciando e venho observando a melhora técnica e pessoal em cada um deles.
 
