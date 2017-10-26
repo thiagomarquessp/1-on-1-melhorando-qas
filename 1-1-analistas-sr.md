@@ -56,4 +56,6 @@ Geralmente para liderados SR eu ainda mantenho 1 on 1 a cada 20 dias.
 Bom pessoal, ta sendo um prazer escrever e ter essas oportunidades de viver algumas experiências. Eu não sou o dono da verdade, mas coloquei aquilo que eu considero fator determinante na minha carreira e como tenho aplicado isso recentemente com alguns QAs como Coach e vendo resultados, escrever essa experiência é show de bola. Mas por favor, me ajudem com críticas.
 
 [Aplique Walking Meeting para seu liderado SR](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/walking-meeting.md)
+
+
 [Home](https://github.com/thiagomarquessp/1-on-1-melhorando-qas)

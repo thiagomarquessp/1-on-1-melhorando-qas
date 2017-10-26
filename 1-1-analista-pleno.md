@@ -59,4 +59,6 @@ Geralmente para liderados PL eu ainda mantenho 1 on 1 a cada 15 dias, assim como
 Se chegamos até aqui, podemos ver como lidar com [liderados SR.](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/1-1-analistas-sr.md)
 
 [Aplique Walking Meeting para seu liderado PL](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/walking-meeting.md)
+
+
 [Home](https://github.com/thiagomarquessp/1-on-1-melhorando-qas)
