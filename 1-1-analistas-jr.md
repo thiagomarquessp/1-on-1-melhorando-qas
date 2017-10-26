@@ -59,4 +59,5 @@ Lidar com um analista jr é muito bom porque é um talento que você tem a oport
 
 Então vamos ver como realizamos um [1 on 1 para analistas PL.](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/1-1-analista-pleno.md)
 
+[Aplique Walking Meeting para seu liderado JR](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/walking-meeting.md)
 [Home](https://github.com/thiagomarquessp/1-on-1-melhorando-qas)
