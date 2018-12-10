@@ -14,7 +14,7 @@ Foram fatores determinantes para que eu os elegesse os melhores e o mais interes
 
 Esses fatores na minha opinião são fundamentais para que um time possa ser elevado até a excelência, pois como não gostar de um gestor que de tempos em tempos te passa um feedback, que saiba sobre você e sua família, que seja ético etc.?
 
-Falando em feedback, eu vejo que em muitas empresas ainda é tratado como tabu pra não falar preguiça por muitos gestores, diferente daqueles que mantém o hábito, de mesmo 1 x por ano falar para seus liderados como eles estão trabalhando ou se portando e como podem melhorar. Liderados que tenham feedbacks frequentes são mais empenhados, mais dedicados a estudar novas coisas, porque frequentemente são desafiados por seus líderes.
+Falando em feedback, eu vejo que em muitas empresas ainda é tratado como tabu pra não falar **preguiça** por muitos gestores, diferente daqueles que mantém o hábito, de mesmo 1 x por ano falar para seus liderados como eles estão trabalhando ou se portando e como podem melhorar. Liderados que tenham feedbacks frequentes são mais empenhados, mais dedicados a estudar novas coisas, porque frequentemente são desafiados por seus líderes.
 
 Em minhas últimas experiências tive a oportunidade de meus líderes aplicarem a chamada reunião de 1 on 1 (One on One), que nada mais é que uma reunião periódica entre líder e liderado e esse artigo vai falar sobre como aplicar uma reunião de one on one em times de QA, mas pode ser aplicado em qualquer equipe.
 
@@ -28,3 +28,4 @@ Dividi o material em:
 4. [Liderados PL;](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/1-1-analista-pleno.md)
 5. [Liderados SR;](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/1-1-analistas-sr.md)
 6. [Walking Meeting.](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/walking-meeting.md)
+7. [Liderando pela felicidade]()
