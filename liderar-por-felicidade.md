@@ -1,12 +1,12 @@
 # Liderando por felicidade
 
-Adicionando esse tópico após algumas coisas acontecerem na minha carreira recente, onde o fator felicidade foi determinante para nesse caso, eu pedir demissão da empresa. Não vou entrar muito em detalhes, basta saber que havia felicidade e entrega em todas as coisas que eu fazia, e de uma hora pra outra, essa felicidade se tornou em algo tão repugnante que foi insustentável continuar na empresa.
+Adicionando esse tópico após algumas coisas acontecerem na minha carreira recente, onde o fator felicidade foi determinante para, nesse caso, eu pedir demissão da empresa. Não vou entrar muito em detalhes, basta saber que havia felicidade e entrega em todas as coisas que eu fazia, e de uma hora pra outra, essa felicidade se tornou em algo tão repugnante que foi insustentável continuar na empresa.
 
 ## Precisamos falar de felicidade
 
 Segundo o dicionário [Michaelis](http://michaelis.uol.com.br/busca?id=wOXv), felicidade é **1: Estado de espírito de quem se encontra alegre ou satisfeito; alegria, contentamento, fortúnio, júbilo. 2: Acontecimento ou situação feliz ou alegre; sorte, sucesso, ventura:** 
 
-Dado que essa definição é clara, manter um profissional **feliz** faz toda a diferença dentro de uma empresa ou dentro do time, mas nesses 12 anos de experiência a regra que eu observei para resolver o problema da infelicidade foi: 
+Dado que essa definição é clara, manter um profissional **feliz** faz toda a diferença dentro de uma empresa ou dentro do time, mas nesses 12 anos de experiência a regras que eu observei para resolver os problemas da infelicidade são: 
 
 1. Mandar o profissional embora;
 2. O profissional pede demissão.
@@ -17,9 +17,7 @@ Mas vamos olhar atentamente o que leva uma decisão ou outra:
 
 Na minha opinião, o que é regra hoje é termos péssimos gestores, claro que há os casos onde temos muito bons líderes na nossa carreira, eu por exemplo, tive três líderes inspiradores, porém tive quase 30 líderes em todas as esferas (tech leads, coordenadores, diretores, gerentes, etc.), ou seja, 1 a cada 10 líderes que eu tive realmente fizeram a diferença. 
 
-Nessa questão, onde temos um profissional com o grau de felicidade muito abaixo do esperado e o rendimento comprometido, a regra dos líderes sequer passa por questionar o que se passa, mas observa claramente que o desempenho caiu e em nosso caso como testers, muito fácil falar que houve erro em produção e que não identificamos, mas não sabem questionar o que levou a acontecer isso. A grande maioria dos nossos gestores se preocupam muito em **aparecer** aparecer por ai em cima do trabalho alheio e que esquecem de prezar pelo "fator humano" de cada um dos liderados. 
-
-Bem, desempenho baixo, números baixo, metas individuais e coletivas comprometidas o jeito mesmo é mandar embora e sempre vem aqueles papos "Ah, mas seu desempenho caiu, não alcançou sua meta pessoal." ou então "Seu desempenho tem deixado a desejar." ou então "Seu desempenho e/ou comportamento tem deixado uma má impressão no time." ou aquela famosa "Estamos reduzindo custos no nosso quadro de funcionários." 
+Desempenho baixo, números baixos, metas individuais e coletivas comprometidas o jeito mesmo é mandar embora e sempre vem aqueles papos "Ah, mas seu desempenho caiu, não alcançou sua meta pessoal." ou então "Seu desempenho tem deixado a desejar." ou então "Seu desempenho e/ou comportamento tem deixado uma má impressão no time." ou aquela famosa "Estamos reduzindo custos no nosso quadro de funcionários." frequentemente são utilizadas como muleta para te mandar embora, e por muitas vezes houve falta de reconhecimento, ou brigou em casa, ou a mãe ta doente ou simplesmente por dia leva-se 3,5 horas para se chegar ao trabalho mas o problema é que na regra, ninguém quer saber disso, ou muitas vezes não se da a devida importância e o que geralmente ocorre é que essa pessoa entra numa esfera de desâmino até sair da empresa, ou aguentar o sofrimento calado e com o corpo cheio de omprazol.
 
 ## O profissional pede demissão
 
@@ -47,3 +45,11 @@ C. De vez em quando, chame seu liderado para um café.
 D. Lidere pelo exemplo
     Definitivamente incentivar seu liderado a procurar emprego **NÃO** é legal. 
     As frustrações como líderes de forma alguma pode ser passada para o time, pelo contrário, na sua frustração como líder, crie um ecossistema de blindagem da equipe e da sua frustração, crie métodos para que o time possa ter o nível de felicidade o mais elevado possível.
+
+E. Mantenha o entusiasmo
+    A equipe reflete minha felicidade e entusiasmo ou eu que sou reflexo da felicidade e entusiasmo da minha equipe?
+
+F. Valorize seu time
+    De forma individual e coletiva, valorize sua equipe, valorize o que todos fazem, e deixe claro isso, defenda seu time e defenda cada uma das pessoas que fazem parte dele. Hoje vale muito mais um reconhecimento, uma palavra do que um pouco mais de dinheiro. Incentive a participação de meetups e conferências e o principal, faça com que todos falem com entusiasmo, chamando mais pessoas a virem a participar disso.
+
+ 
