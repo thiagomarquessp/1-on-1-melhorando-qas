@@ -27,5 +27,5 @@ Dividi o material em:
 3. [Liderados JR;](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/1-1-analistas-jr.md)
 4. [Liderados PL;](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/1-1-analista-pleno.md)
 5. [Liderados SR;](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/1-1-analistas-sr.md)
-6. [Walking Meeting.](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/walking-meeting.md)
-7. [Liderando pela felicidade](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/liderar-por-felicidade.md)
+6. [Walking Meeting;](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/walking-meeting.md)
+7. [Liderando pela felicidade.](https://github.com/thiagomarquessp/1-on-1-melhorando-qas/blob/master/liderar-por-felicidade.md)
